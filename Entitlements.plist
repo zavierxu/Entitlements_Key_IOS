@@ -93,6 +93,7 @@
         <string>kTCCServiceAddressBook</string>
         <string>kTCCServiceCalendar</string>
         <string>kTCCServicePhotos</string>
+        <string>kTCCServiceMicrophone</string>
     </array>
 </dict>
 </plist>
